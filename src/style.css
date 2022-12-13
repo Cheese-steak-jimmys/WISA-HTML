@@ -7,7 +7,7 @@
 body {
     display: flex;
     flex-direction: column;
-    background: #151414; 
+    background: #fffdfd; 
 }
 
 header {
@@ -19,8 +19,8 @@ header {
 }
 
 #logo {
-    height: 15vw;
-    border-radius: 50%;
+    height: 30vw;
+    /* border-radius: 45% 22% 40% 10%; */
     padding: 0%;
 }
 
@@ -35,7 +35,7 @@ main {
 #construction-img {
     width: 33vw;
     /* margin: 12vw; */
-    box-shadow: 0px 0px 200px 30px #414141;
+   
     border-radius: 150% 150% 10% 10%;
 }
 
@@ -44,7 +44,7 @@ section {
     flex-direction: column;
     align-items: center;
     margin: 3vw;
-    color: #c7d00e;
+    color: #e52b05;
 }
 footer {
     display: flex;
